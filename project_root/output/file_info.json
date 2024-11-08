@@ -1,0 +1,23 @@
+[
+    {
+        "file_name": "file1_utf8_processed.txt",
+        "full_path": "/Users/macbook/Яндекс.Диск/Visual Studio/homework_data_serialization/project_root/data/processed/file1_utf8_processed.txt",
+        "file_size": 21,
+        "creation_time": "2024-11-08 13:30:20",
+        "last_modified": "2024-11-08 13:30:20"
+    },
+    {
+        "file_name": "file3_utf8_processed.txt",
+        "full_path": "/Users/macbook/Яндекс.Диск/Visual Studio/homework_data_serialization/project_root/data/processed/file3_utf8_processed.txt",
+        "file_size": 13,
+        "creation_time": "2024-11-08 13:30:20",
+        "last_modified": "2024-11-08 13:30:20"
+    },
+    {
+        "file_name": "file2_iso_processed.txt",
+        "full_path": "/Users/macbook/Яндекс.Диск/Visual Studio/homework_data_serialization/project_root/data/processed/file2_iso_processed.txt",
+        "file_size": 17,
+        "creation_time": "2024-11-08 13:30:20",
+        "last_modified": "2024-11-08 13:30:20"
+    }
+]

@@ -1,0 +1,10 @@
+2024-11-08 13:15:27 - Созданы директории:
+  project_root/data/raw
+  project_root/data/processed
+  project_root/logs
+  project_root/backups
+  project_root/output
+2024-11-08 13:15:27 - Созданы файлы в 'data/raw/':
+  file1_utf8.txt
+  file2_iso.txt
+  file3_utf8.txt

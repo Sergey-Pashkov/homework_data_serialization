@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+      "type": "object",
+      "properties": {
+          "file_name": { "type": "string" },
+          "full_path": { "type": "string" },
+          "file_size": { "type": "integer" },
+          "creation_time": { "type": "string", "format": "date-time" },
+          "last_modified": { "type": "string", "format": "date-time" }
+      },
+      "required": ["file_name", "full_path", "file_size", "creation_time", "last_modified"]
+  }
+}
